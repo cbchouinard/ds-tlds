@@ -83017,7 +83017,7 @@ var vectors = (0, _immutable.fromJS)([{
     component: 'text',
     props: {
       className: '',
-      children: 'Jenny is not really tech savvy and creating a website is a little stressful for her. She doesn\u2019t have a lot of resources and she never did a website before. A friend told her the Grid was really easy, so she start there. She signs up for a free Grid site and she\u2019s then ask what\u2019s the name of her site. She enters \u201CSimply Cafe\u201D, she\'s then asked if she has a domain name and list some suggested domain names based on the name of her site. Jenny doesn\'t know about new TLDs so she had in mind <a>simplycafe.com</a> but then on the top of the list is <a>simply.cafe</a> with a message next to it saying that the Grid offers a simplified experience for that TLD to make the site creation even easier. She didn\u2019t even knew <a>.cafe</a> existed and she\'s definitely looking for simplicity, she loves the domain name and decide to go with it.'
+      children: 'Jenny is not really tech savvy and creating a website is a little stressful for her. She doesn\u2019t have a lot of resources and she never did a website before. A friend told her the Grid was really easy, so she starts there. She signs up for a free Grid site and she\u2019s then asked what\u2019s the name of her site. She enters \u201CSimply Cafe\u201D, she\'s then asked if she has an existing domain name and the Grid lists some suggested domain names based on the name of her site. Jenny doesn\'t know about new TLDs so she had in mind <a>simplycafe.com</a> but then on the top of the list is <a>simply.cafe</a> with a message next to it saying that the Grid offers a simplified experience for that TLD to make the site creation even easier. She didn\u2019t even knew <a>.cafe</a> existed and she\'s definitely looking for simplicity, she loves the domain name and decides to go with it.'
     }
   }, {
     component: 'layout-flickr',
@@ -83033,13 +83033,13 @@ var vectors = (0, _immutable.fromJS)([{
     component: 'text',
     props: {
       //children: `Adam was bamboozled to discover his 14 year old nephew not only had a professional site but it was built entirely on his iPhone & for free... How? "The Grid!" the youngster proclaimed. 10 minute finger phone jam later & hello world <a href="http://thegrid.ai/adamtablemaker/">adamtablemaker.com</a>. Adam staked his claim on the greatest invention of our age, Adam was proud.`
-      children: 'The Grid then adjust the site creation wizard to ensure the best experience for creating her site. Our AI helps her with the content, suggesting relevant images and videos, making sure important sections are covered, assisting her in adding a couple of products so she can sell her homebrewed coffee online as well, suggest her colors palette and typography that are working well for Cafes. After five minutes, Jenny as a beautiful site, already online with her cool new domain name, she can\u2019t believe how easy it was. The AI knows Jenny\'s site is related to cafe and will design the site accordingly.'
+      children: 'The Grid then adjusts the site creation wizard to ensure the best experience for creating her site. Our AI helps her with the content, suggesting relevant images and videos, making sure important sections are covered, assisting her in adding a couple of products so she can sell her homebrewed coffee online as well, suggests color palettes and typography that are working well for Cafes. After five minutes, Jenny has a beautiful site, already online with her cool new domain name, she can\u2019t believe how easy it was. The AI knows Jenny\'s site is related to cafe and will design the site accordingly.'
     }
   }, {
     component: 'text',
     props: {
       className: '',
-      children: 'Jenny\u2019s shares her new .cafe website to her social network! Paul sees Jenny\u2019s post and his curious about the .cafe and impressed with Jenny\u2019s site. Paul is a life coach and is looking to expand his business through online coaching. He ask Jenny how she did her site and got that domain name. Jenny sends him a link to the Grid and tell him to check out for those cool new domain names. Paul finds a <a>.coach</a> domain name with the special mention about a simplified Grid experience. Five minutes later he\u2019s online, becoming another TLDs ambassador.'
+      children: 'Jenny shares her new .cafe website to her social network! Paul sees Jenny\u2019s post and he\'s curious about the .cafe and impressed with Jenny\u2019s site. Paul is a life coach and is looking to expand his business through online coaching. He asks Jenny how she did her site and got that domain name. Jenny sends him a link to the Grid and tells him to check it out for those cool new domain names. Paul finds a <a>.coach</a> domain name with the special mention about a simplified Grid experience. Five minutes later he\u2019s online, becoming another TLDs ambassador.'
     }
   }, {
     component: 'card.style--rookie.w--1of2',
@@ -83088,7 +83088,7 @@ var vectors = (0, _immutable.fromJS)([{
     component: 'card.style--silk',
     props: {
       title: 'Brand',
-      description: 'partnering with largest domain registry.'
+      description: 'partnering with a large domain registry.'
     }
   }]
 }, {
@@ -83119,7 +83119,7 @@ var vectors = (0, _immutable.fromJS)([{
   }, {
     component: 'text',
     props: {
-      children: 'Creation of site schemas defining the main sections a site should have to assist in the user in the creation of a site, providing at each step content suggestion and gathering the required information for third party service integration when applicable.'
+      children: 'Creation of site schemas defining the main sections a site should have to assist the user in the creation of a site, providing at each step content suggestion and gathering the required information for third party service integration when applicable.'
     }
   }, {
     component: 'h3',
@@ -83129,12 +83129,12 @@ var vectors = (0, _immutable.fromJS)([{
   }, {
     component: 'text',
     props: {
-      children: 'Creation of a design guideline for the TLD which defines design recommendations and rules that our AI uses during the creation of a sites. The sites are designed in accordance to the stylistic trends associated with the TLD.'
+      children: 'Creation of a design guideline for the TLD which defines design recommendations and rules that our AI uses during the creation of sites. The sites are designed in accordance to the stylistic trends associated with the TLD.'
     }
   }, {
     component: 'text',
     props: {
-      children: 'The design guideline defines recommendation and rules for typography, colors, layout, components, styles.'
+      children: 'The design guideline defines recommendations and rules for typography, colors, layout, components, styles.'
     }
   }, {
     component: 'h3',
@@ -83144,7 +83144,7 @@ var vectors = (0, _immutable.fromJS)([{
   }, {
     component: 'text',
     props: {
-      children: 'Creation of buckets of content composed of aggregated content providers. The AI uses those buckets to suggest content to the user during the site creation or content creation flows. Example of content providers are <a href="http://unsplash.com">unsplash</a> and <a href="http://pexels.com">pexels</a>. '
+      children: 'Creation of content buckets from aggregated content providers. The AI uses these buckets to suggest content to the user during the site creation or content creation flows. Example of content providers are <a href="http://unsplash.com">unsplash</a> and <a href="http://pexels.com">pexels</a>. '
     }
   }, {
     component: 'h3',
@@ -83154,7 +83154,7 @@ var vectors = (0, _immutable.fromJS)([{
   }, {
     component: 'text',
     props: {
-      children: 'Creation of up to 6 structured posts. Examples of structure posts can be "Opening Hours" or "Hockey Team". For each structure post, we provide the UI to get the inputs from the user and the component to render them on the site.'
+      children: 'Creation of up to 6 structured posts. Examples of structure posts can be "Opening Hours" or "Hockey Team". For each structured post, we provide the UI to get the inputs from the user and the component to render them on the site.'
     }
   }, {
     component: 'h3',
@@ -83164,7 +83164,7 @@ var vectors = (0, _immutable.fromJS)([{
   }, {
     component: 'text',
     props: {
-      children: 'Integration of up to 3 third party services. For example, possible integration for <a>.movie</a> can be could be IMDB and Rotten Tomatoes.'
+      children: 'Integration of up to 3 third party services. For example, possible integration for <a>.movie</a> could be IMDB and Rotten Tomatoes.'
     }
   }]
 }]);
